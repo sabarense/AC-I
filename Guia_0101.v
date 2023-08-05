@@ -37,6 +37,6 @@ initial
     $display ( "e = %d" , e );
     eInBinary = e;
     $display ( "dInBinary = %b\n" , eInBinary );
-
     end 
+    
 endmodule 
