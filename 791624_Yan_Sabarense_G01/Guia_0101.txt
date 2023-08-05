@@ -1,0 +1,55 @@
+1a.) - 26(10)
+    26/2 -> 13 e sobra 0
+    13/2 -> 6 e sobra 1
+    6/2 ->  3 e sobra 0
+    3/2 -> 1 e sobra 1
+    1/2 -> 0 e sobra 1  
+26(10) -> 11010(2)
+
+b) - 53(10)
+    53/2 -> 26 e sobra 1
+    26/2 -> 13 e sobra 0
+    13/2 -> 6 e sobra 1
+    6/2 -> 3 e sobra 0
+    3/2 -> 1 e sobra 1
+    1/2 -> 0 e sobra 1
+53(10) -> 110101(2)
+
+c) - 723(10)
+    723/2 -> 361 e sobra 1
+    361/2 -> 180 e sobra 1
+    180/2 -> 90 e sobra 0
+    90/2 -> 45 e sobra 0
+    45/2 -> 22 e sobra 1
+    22/2 -> 11 e sobra 0
+    11/2 -> 5 e sobra 1
+    5/2 -> 2 e sobra 1
+    2/2 -> 1 e sobra 0
+    1/2 -> 0 e sobra 1
+723(10) -> 1011010011(2)
+
+d) - 312(10) 
+    312/2 -> 156 e sobra 0 
+    156/2 -> 78 e sobra 0
+    78/2 -> 39 e sobra 0
+    39/2 -> 18 e sobra 1
+    19/2 -> 9 e sobra 1
+    9/2 -> 4 e sobra 1
+    4/2 -> 2 e sobra 0
+    2/2 -> 1 e sobra 0
+    1/2 -> 0 e sobra 1
+312(10) -> 100111000(2)
+
+e) - 365(10) 
+    365/2 -> 182 e sobra 1
+    182/2 -> 91 e sobra 0
+    91/2 -> 45 e sobra 1
+    45/2 -> 22 e sobra 1
+    22/2 -> 11 e sobra 0
+    11/2 -> 5 e sobra 1
+    5/2 -> 2 e sobra 1
+    2/2 -> 1 e sobra 0
+    1/2 -> 0 e sobra 1
+365(10) -> 101101101(2)
+
+                    
