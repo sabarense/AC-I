@@ -1,0 +1,1 @@
+Theldo, fiqueui com muita duvida ao fazer os exercicios no Verilog, não entendi muito bem.
