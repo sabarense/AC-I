@@ -1,0 +1,102 @@
+NOME: Yan Sabarense Coelho Silva
+MATRÍCULA: 791624
+
+1.) 
+	https://docplayer.com.br/3878086-O-cpld-dispositivo-complexo-de-logica-programacao-aplicado-em-
+	automacao-industrial-resumo.html
+		
+	https://edisciplinas.usp.br/pluginfile.php/530826/mod_resource/content/1/DISPOSITIVOS LÓGICOS
+	PROGRAMÁVEIS_2014.pdf
+
+	https://teses.usp.br/teses/disponiveis/18/18133/tde-30112006-150543/publico/Danilo.pdf
+	
+2.)
+	
+	Autor:
+
+	Danilo Rodrigues Pereira
+	
+	Título:
+
+	Desenvolvimento de metodologia para a otimização do projeto de sistemas microeletromecânicos baseados em materiais poliméricos
+	
+	Instituição:
+
+	Universidade de São Paulo (USP)
+	
+	Ano de Publicação:
+	
+	2006
+	
+	Citação (APA):
+
+	Pereira, D. R. (2006). Desenvolvimento de metodologia para a otimização do projeto de sistemas microeletromecânicos baseados em materiais poliméricos (Tese de doutorado). Universidade de São Paulo, Escola Politécnica. Disponível em: https://teses.usp.br/teses/disponiveis/18/18133/tde-30112006-150543/publico/Danilo.pdf
+	
+3.) 
+	
+	ASIC (Application-Specific Integrated Circuit):
+
+	Definição: Circuito integrado customizado para uma função específica.
+	Características:
+	Requer processo de fabricação especial com máscaras específicas.
+	Envolve altos custos de projeto e longo tempo de desenvolvimento.
+	Custos podem ser compensados em grandes implementações.
+	
+	ASSP (Application-Specific Standard Product):
+
+	Definição: Componente eletrônico projetado previamente para uma função específica.
+	Características:
+	Menos personalizado que um ASIC, mas ainda adaptado para uma aplicação específica.
+	Custos de design inferiores em comparação com ASICs.
+	Adequado para aplicações que não requerem uma personalização total, proporcionando um equilíbrio entre flexibilidade e custo.
+	
+	SPLD (Simple Programmable Logic Device):
+
+	Definição: Categoria que inclui PLAs, PALs e dispositivos similares, conhecidos por baixo custo e alto desempenho.
+	Características:
+	São dispositivos de lógica programável de menor complexidade.
+	Amplamente utilizados no mercado atual.
+	
+	CPLD (Complex Programmable Logic Device):
+
+	Definição: Dispositivo de lógica programável que supera as limitações de capacidade dos SPLDs ao integrar múltiplos em um único chip.
+	Características:
+	Introduzidos pela Altera Corp., inicialmente como Classic EPLDs e posteriormente séries como MAX 3000, MAX 5000, MAX 7000 e MAX 9000.
+	Oferecem alta capacidade lógica, até o equivalente a 50 dispositivos SPLDs típicos.
+	Possuem baixo custo e alta velocidade, mas podem ter desafios ao serem estendidos para maiores densidades.
+	
+	SOC (System-on-Chip):
+
+	Definição: Um chip único que incorpora todos os componentes essenciais de um sistema.
+	Características:
+	Alta integração: Todos os elementos vitais são incluídos em um único chip.
+	Economiza espaço e energia em comparação com sistemas modulares.
+	Requer um design complexo devido à sua abrangência e funcionalidade combinadas.
+	
+	FPGA (Field-Programmable Gate Array):
+
+	Definição: Dispositivos programáveis que não contêm planos AND e OR, mas possuem uma grande quantidade (na ordem de milhares) de unidades configuráveis conhecidas como blocos lógicos.
+	Características:
+	Unidades lógicas são componentes padrões configuráveis de forma independente.
+	Interconexões são feitas através de uma matriz de trilhas condutoras e chaves programáveis.
+	Oferecem alta flexibilidade e adaptabilidade para uma ampla gama de aplicações.
+	
+4.)
+
+	| Termo                                     | Definição                                                                | Características                                                                                                                                                             					|
+	|-------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|			 					
+	| PROM (Programmable Read-Only Memory)      | Tipo de memória ROM programável uma vez.                                 | - Apenas programável uma vez durante a fabricação. - Saída fixa e pré-determinada. - Usado em aplicações com lógica relativamente simples.                       			 					|
+	| PLA (Programmable Logic Array)            | Dispositivo de lógica programável com matriz AND e OR.                   | - Programável pelo usuário para criar funções lógicas mais complexas. - Possui uma matriz programável de portas AND e OR. - Oferece maior flexibilidade do que PROM.        					|
+	| PAL (Programmable Array Logic)            | Dispositivo de lógica programável com matriz OR e AND fixa.              | - A matriz OR é programável, mas a matriz AND é fixa. - Pode ser mais rápido devido à matriz AND fixa. - Oferece menos flexibilidade do que PLA, mas é mais eficiente em termos de velocidade. |
+
+5.)
+
+	|                 | CPLD (Complex Programmable Logic Device)                                             | FPGA (Field-Programmable Gate Array)                                                        																									  |
+	|-----------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+	| Definição       | Dispositivo lógico programável complexo que supera as limitações de capacidade dos SPLDs ao integrar múltiplos em um único chip. | Dispositivo programável que não contém planos AND e OR, mas possui uma grande quantidade de unidades configuráveis conhecidas como blocos lógicos. |
+	| Características | - Integração de múltiplos SPLDs em um único chip.                                       | - Não possui planos AND e OR.                                                               																								  |
+	|                 | - Oferece alta capacidade lógica.                                                       | - Contém uma grande quantidade de blocos lógicos configuráveis.                              																								  |
+	|                 | - Pode ser programado após a produção.                                                  | - Altamente flexível e adaptável.                                                             																								  |
+	| Custo           | Geralmente tem um custo intermediário.                                                  | Pode ser mais caro devido à sua flexibilidade e capacidade de personalização.               																								  |
+	| Desempenho      | Bem adaptado para aplicações com requisitos de tempo críticos e lógica complexa.        | Altamente flexível em termos de desempenho, que pode ser configurado pelo usuário.         																								  |
+	| Aplicações      | Utilizado em situações onde a flexibilidade de design é crítica. Ideal para prototipagem rápida. | Amplamente utilizado em uma variedade de aplicações, incluindo processadores embarcados, redes e processamento de sinais. 														  |
